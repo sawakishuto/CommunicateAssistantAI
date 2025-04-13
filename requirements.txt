@@ -1,0 +1,9 @@
+fastapi>=0.115.0
+uvicorn>=0.23.0
+transformers>=4.51.0
+torch>=2.0.0
+pydantic>=2.0.0
+python-multipart
+tqdm
+regex
+numpy 
